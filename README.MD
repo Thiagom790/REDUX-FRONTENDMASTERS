@@ -1,7 +1,3 @@
-# Conteúdos do Curso de Redux (FrontEndMasterss)
-
-[Link da Apostila](https://stevekinney.github.io/redux-fundamentals/)
-
 <h1 align="center">Redux Frontend Masters</h1>
 
 <p align="center">
