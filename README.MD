@@ -5,9 +5,9 @@
 <h1 align="center">Redux Frontend Masters</h1>
 
 <p align="center">
-  <a href="#dart">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#rocket">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#file_folder">Estrutura</a> &#xa0; | &#xa0;
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#file_folder-estrutura">Estrutura</a> &#xa0; | &#xa0;
   <a href="https://github.com/Thiagom790" target="_blank">Autor</a> &#xa0; | &#xa0;
   <a href="https://stevekinney.github.io/redux-fundamentals/" target="_blank">Apostila</a>
 </p>
